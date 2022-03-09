@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "locale": "en-US",
+      "title": "Sample Title For the First Blog Post in English",
+      "description": "This is the first blog post in English published on the blog",
+      "image": "https://source.unsplash.com/GnvurwJsKaY/1600x900"
+    },
+    {
+      "locale": "vn-VN",
+      "title": "Vietnam",
+      "description": "Vietnam",
+      "image": "https://source.unsplash.com/0gkw_9fy0eQ/1600x900"
+    }
+  ]
+}

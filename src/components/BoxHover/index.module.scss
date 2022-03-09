@@ -1,0 +1,10 @@
+.button {
+  padding: 1rem 0.6rem 1rem 0.2rem;
+  outline: 1px solid white;
+  transition: all 0.5ms;
+  &:hover {
+    background-image: linear-gradient(to right, #f0ed39, #8fc741);
+    outline: none
+    // border: none;
+  }
+}
